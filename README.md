@@ -27,6 +27,6 @@ Some interactive features may not be available in the PDF version
 For the full interactive experience, you may need access to the original Tableau workbook
 
 ## Contact
-Email: caroline.xhc@gmail.com
+Email: valeska.xu@gmail.com
 
 Phone: +852 68595812
